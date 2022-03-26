@@ -20,7 +20,7 @@ Analysis began by using the Kickstarter_analysis workbook, to filter only the "P
 ![Parent_Outcomes](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Parent%20Outcomes.png)
 
 
-Here we see, that, of all of the campaign data, we have the most data collected for "Theater". 
+Here , we see that Louise has provided us with quite a bit of data which should hopefully be reflective of the popultion in an effort to allow for her success. 
 
 The Theater Category was then further analyzed 
 
