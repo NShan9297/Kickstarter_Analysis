@@ -26,8 +26,10 @@ The Theater Category was then further analyzed by looking at the Outcomes based 
 
 To accomplish this, first, the launched_at column values had to be converted from Unox Epoch time by using the =YEAR(Serial_number) function. After the years were converted, a pivot table was created to show all Theater campaigns from '09 to '17. This is charted as Date Created Conversion in the Kickstarter worksheet. Below is the visualization of the outcomes
 
+### Analysis of Outcomes Based on Launch Date ##
 
 ![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Sub Categories ##
 
@@ -50,4 +52,6 @@ Successful and Failed campaings with similar goals were added together for the t
 
 
 As expected, as the values were calculated from the total number of campaigns, the failed and successful campaigns are inversely related. As success goes up, fails go down and vice versa.
+
+
 
