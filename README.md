@@ -9,8 +9,7 @@
 
 ## **Purpose** ## 
 
-The Purpose of this project is to analyze campaigns to find what models are most successful and which failed. Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal based on funds/money pledged. While Failed campaigns were those that did not reach their goal based on funds/money pledged. From this data, Louise will 
-
+The Purpose of this project is to analyze campaigns to find what models are most successful and which failed. Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal based on funds/money pledged. While Failed campaigns were those that did not reach their goal based on funds/money pledged. From this data, Louise will have some statistical support to help her tackle her crowdfunding journey. 
 
 ## **Analysis and Challenges** ##
 
