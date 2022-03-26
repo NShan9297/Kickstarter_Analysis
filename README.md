@@ -7,8 +7,9 @@
 
 
 ###**Analysis and Challenges**###
-Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent CategoryS" of the campaigns:
+Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent Categorys" of all the campaigns' figured collected:
 
 ![Parent_Outcomes](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Parent%20Outcomes.png)
 
 
+Here we see, that, of all of the campaign data, we have the most in "Theater"
