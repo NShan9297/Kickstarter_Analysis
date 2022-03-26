@@ -72,4 +72,15 @@ The most challenging aspect of this project was creating the outcomes based on g
 
 ## **Results** ##
 
---Outcomes Based on Launch Date--
+**Outcomes Based on Launch Date**
+
+By looking at this specific data set, we are able to conclude when Louise should and shouldn't start her project.
+
+May has the highest number of overall campaigns; this could be due to May launches being an industry norm or perhaps the weather. May also has the highest success rate for campaigns. If Louise is not able to launch in May, it is best for her to start before the end of June because the numbers begin to trail off and look more like the remainging months.
+
+October is also a good contender because there are more successful campaigns than failed, and over the 8 years tracked, no campaigns were canceled but evey other month in the year has canceled campaigns
+
+She should not start in December because the number of failed and successful campaigns becomes about equal. This decreases her chances of having a successful campaign. 
+
+
+**Outcomes Based on Goals**
