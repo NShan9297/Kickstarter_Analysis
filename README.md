@@ -26,7 +26,9 @@ Here , we see that Louise has provided us with quite a bit of data which should 
 
 The Theater Category was then further analyzed by looking at the Outcomes based on when the Campaigns Launched:
 
-To accomplish this, first, the launched_at column values had to be converted from Unox Epoch time by using the =YEAR(Serial_number) function. After the years were converted, a pivot table was created to show all Theater campaigns from '09 to '17. This is charted as Date Created Conversion in the Kickstarter worksheet. Below is the visualization of the outcomes
+To accomplish this, first, the launched_at column values had to be converted from Unix Epoch time by using the =YEAR(Serial_number) function. This yieled the day, date and year each campaign launched. After this conversion, I then used the year to create a pivot table was to show all Theater campaigns launched from '09 to '17. This is charted as Date Created Conversion and Years in the Kickstarter worksheet. 
+
+Below is the visualization of the outcomes
 
 
 ![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
