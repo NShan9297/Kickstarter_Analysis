@@ -22,7 +22,8 @@ Analysis began by using the Kickstarter_analysis workbook, to filter only the "P
 
 Here , we see that Louise has provided us with quite a bit of data which should hopefully be reflective of the popultion in an effort to allow for her success. 
 
-The Theater Category was then further analyzed 
+The Theater Category was then further analyzed by looking at the Outcomes based on when the Campaigns Launched:
+![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 From the "Theater" Parent Category, we then parsed through the numbers and created a Pivot Chart with a filter option to include all subcategories. 
 
