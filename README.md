@@ -3,7 +3,7 @@
 
 
 ## **Overview** ## 
-“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from. Louise is looking for about $10,000 for her play. 
+“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from. Louise is looking for about $10,000 to fund her play. 
 
 
 
@@ -78,11 +78,11 @@ By looking at this specific data set, we are able to conclude when Louise should
 
 May has the highest number of overall campaigns; this could be due to May launches being an industry norm or perhaps the weather. May also has the highest success rate for campaigns. If Louise is not able to launch in May, it is best for her to start before the end of June because the numbers begin to trail off and look more like the remainging months.
 
-October is also a good contender because there are more successful campaigns than failed, and over the 8 years tracked, no campaigns were canceled but evey other month in the year has canceled campaigns
+October is also a good contender because there are more successful campaigns than failed, and over the 8 years tracked, no campaigns were canceled but evey other month has canceled campaigns
 
-She should not start in December because the number of failed and successful campaigns becomes about equal. This decreases her chances of having a successful campaign. 
+She should not start in December because the number of failed and successful campaigns becomes almost equal. This decreases her chances of having a successful campaign as her chances of failing are about 50%. Also, December is the only month that consistenly reaches this point. 
 
 
 **Outcomes Based on Goals**
 
-The chart shows that Louise should be very careful when selecting her campaign goal. The most succces is seen with campaigns that are $1,000 or less, with almost 80% of them reaching their goal. A goal of $1,000 to $4,999 is about the same. The numbers steadily decrease from this point until a goal of about $35,000. However, at this goal point, the fundraising pool is **_very_** low. From the $25,000 goal mark and on, the campaign totals are mostly in the single digits. Those that are double digits are lower double digits and mostly failed camapigns. At the $35,00 we see some success, but this suggests that there is some special circumstance or factor that has allowed for those successes. Maybe the playwright has made a name for themselves? As Louise is just starting out, she may have to source a lot of backers to meet her goal. 
+The chart shows that Louise **_may_** not reach her campaign goal. The most succces is seen with campaigns that are $1,000 or less, with almost 80% of them reaching their goal. A goal of $1,000 to $4,999 is about the same. The numbers steadily decrease from this point until a goal of about $35,000. However, at this goal point, the fundraising pool is **_very_** low. From the $25,000 goal mark and on, the campaign totals are mostly in the single digits. Those that are double digits are lower double digits and mostly failed camapigns. At the $35,000 goal mark we see some success, but the data suggests that there is some special circumstance or factor that has allowed for those successes. Maybe the playwright has made a name for themselves? Maybe it is a popular/awaited play. As Louise is just starting out, she may have to source a lot of backers to meet her goal. Louise's goal of $10,000 is possible, but it is safer for her to choose a maximum of $5,000 to begin with. 
