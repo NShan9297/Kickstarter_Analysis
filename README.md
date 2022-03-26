@@ -13,22 +13,24 @@ The Purpose of this project is to analyze campaigns to find what models are most
 
 
 ## **Analysis and Challenges** ##
-Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categories" or Classifications of all the campaign figures collected. From the figures, a Pivot Table was then created to show/compare the total number of campaigns to include successful, failed, live, and canceled campaigns, regardless of their categories. The Pivot table is visualized using a Bar Graph below:
+Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categories" or Classifications of all the campaign figures collected. From the figures, a Pivot Table was then created to show/compare the total number of campaigns which included all successful, failed, live, and canceled campaigns, regardless of their categories. The Pivot table is visualized using a Bar Graph below:
+
 
 ### Parent Categories ###
 
 ![Parent_Outcomes](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Parent%20Outcomes.png)
 
 
-Here , we see that Louise has provided us with quite a bit of data which should hopefully be reflective of the popultion in an effort to allow for her success. 
+Here, we see that Louise has provided us with what appears to be sufficient data to be reflective of the popultion.
+
+From this, we then begin to take a closer look at the Parent Category, Theater which is the Category for Louise's subcategory, "Plays".
 
 ### Analysis of Outcomes Based on Launch Date ##
 
-The Theater Category was then further analyzed by looking at the Outcomes based on when the Campaigns Launched:
+The Theater Category was analyzed by looking at the Outcomes based on when the Campaigns Launched:
 
-To accomplish this, first, the launched_at column values had to be converted from Unix Epoch time by using the =YEAR(Serial_number) function. This yieled the day, date and year each campaign launched. After this conversion, I then used the year to create a pivot table was to show all Theater campaigns launched from '09 to '17. This is charted as Date Created Conversion and Years in the Kickstarter worksheet. 
+To accomplish this, first, the launched_at column values had to be converted from Unix Epoch time by using the =YEAR(Serial_number) function. This yielded the day, date and year each theater campaign was launched. After this conversion, I then used the year to create a pivot tableto show all Theater campaigns launched from '09 to '17. This is charted as Date Created Conversion and Years in the Kickstarter worksheet and visualized below:
 
-Below is the visualization of the outcomes
 
 
 ![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
