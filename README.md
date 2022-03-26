@@ -13,7 +13,7 @@ The Purpose of this project is to analyze campaigns to find what models are most
 
 
 ## **Analysis and Challenges** ##
-Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categorys" of all the campaigns' figures collected. From the figures a Pivot Table was created to show/compare the total number of campaigns. This includes successful, failed, live, and canceled campaigns. Pivot then visualized using a Graph Charts:
+Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categories" or main categories of all the campaign figures collected. From the figures, a Pivot Table was then created to show/compare the total number of campaigns. This includes successful, failed, live, and canceled campaigns, regardless of their categories. Pivot then visualized using a Graph Charts:
 
 ### Parent Categories ###
 
