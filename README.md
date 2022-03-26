@@ -42,6 +42,7 @@ From here, I went on to show the Subcategory of Plays which visualizes how plays
 ![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
 
 
-The deep dive for the subcategory Plays was analyzed by looking at the outcomes based on the goals, showing overall success. This was acheived by Creating a scale for the goal. The goal was less than $1,000 to $50,000+ incrementally increasing by $5,000 for every row. 
+The deep dive for the subcategory Plays was analyzed by looking at the outcomes based on the goals, showing overall success. This was acheived by Creating a scale for the goal. The rows were set up to show when the goals were less than $1,000 to $50,000 or more, incrementally increasing by $5,000 for every row.
 
+Successful and Failed campaings with similar goals were added to get the total number and the Percetage successful was calculated over the total number of projects. 
 
