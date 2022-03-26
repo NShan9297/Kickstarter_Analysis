@@ -98,5 +98,5 @@ There are some real world variables that this data set cannot accurately account
 
 Box and Whisker would have been another good chart for the Outcomes based on Goals. It could be a good supplement to show if the higher goals are trully outliers as they appear to be. 
 
-A Histogram could have been used for the Outcomes Based on Goal infomations as well. This would better illustrate the distribution of the 
+A Histogram could have been used for the Outcomes Based on Goal infomations as well. This would better illustrate the distribution of how often what goal range was, or wasn't met.  
 
