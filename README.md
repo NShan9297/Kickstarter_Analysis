@@ -3,7 +3,7 @@
 
 
 ## **Overview** ## 
-“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from.
+“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from. Louise is looking for about $10,000 for her play. 
 
 
 
@@ -84,3 +84,5 @@ She should not start in December because the number of failed and successful cam
 
 
 **Outcomes Based on Goals**
+
+The chart shows that Louise should be very careful when selecting her campaign goal. The most succces is seen with campaigns that are $1,000 or less, with almost 80% of them reaching their goal. A goal of $1,000 to $4,999 is about the same. The numbers steadily decrease from this point until a goal of about $35,000. However, at this goal point, the fundraising pool is **_very_** low. From the $25,000 goal mark and on, the campaign totals are mostly in the single digits. Those that are double digits are lower double digits and mostly failed camapigns. At the $35,00 we see some success, but this suggests that there is some special circumstance or factor that has allowed for those successes. Maybe the playwright has made a name for themselves? As Louise is just starting out, she may have to source a lot of backers to meet her goal. 
