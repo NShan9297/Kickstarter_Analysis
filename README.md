@@ -33,6 +33,7 @@ To accomplish this, first, the launched_at column values had to be converted fro
 
 From the "Theater" Parent Category, we then parsed through the numbers and created a Pivot Chart with a filter option to include all subcategories. 
 
+Below we ar showing all subcategories for all campaigns.
 
 ![sub_stats](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Sub_stats.png)
 
