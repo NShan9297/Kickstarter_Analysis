@@ -13,3 +13,6 @@ To start, we began by using the Kickstarter_analysis workbook, to filter only th
 
 
 Here we see, that, of all of the campaign data, we have the most data collected for "Theater". 
+
+
+From the "Theater" Parent Category, we then parsed the number 
