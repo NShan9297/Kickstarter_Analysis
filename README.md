@@ -2,14 +2,14 @@
 
 
 
-##**Overview**## of Project	“Louise” an up-and-coming playwright is looking to start her first play. She decided to use crowdfunding as a resource to raise money for it. She needed insight on what successful crowdfunding campaigns look like from start to finish, to model hers from.
+## **Overview** ## of Project	“Louise” an up-and-coming playwright is looking to start her first play. She decided to use crowdfunding as a resource to raise money for it. She needed insight on what successful crowdfunding campaigns look like from start to finish, to model hers from.
 
 
 
-##**Purpose**## of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. The data was collected across 21 countries, from 2009 to 2017.
+## **Purpose** ## of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. The data was collected across 21 countries, from 2009 to 2017.
 
 
-##**Analysis and Challenges**##
+## **Analysis and Challenges** ##
 Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categorys" of all the campaigns' figures collected. From the figures a Pivot Table was created to show/compare the total number of campaigns. This includes successful, failed, live, and canceled campaigns. Pivot then visualized using a Graph Charts:
 
 
