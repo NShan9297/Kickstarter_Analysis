@@ -42,12 +42,12 @@ From here, I went on to show the Subcategory of Plays which visualizes how plays
 ![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
 
 
-The subcategory Plays was analyzed by looking at the outcomes based on the goals, showing overall success. This was acheived by Creating a scale for the goal. The rows were set up to show when the goals were less than $1,000 to $50,000 or more, incrementally increasing by $5,000 for every row.
+The subcategory Plays was further analyzed by looking at the outcomes based on the goals, showing overall success. This was acheived by Creating a scale for the goal. The rows were set up to show when the goals were less than $1,000 to $50,000 or more, incrementally increasing by $5,000 for every row.
 
 Successful and Failed campaings with similar goals were added together for the total number of Campaigns. The Percentage successful/failed/canceled was then calculated by taking the total number of the respective campaigns  over the total number of all campaigns in that range. Visualized by creating a Line Chart using the outcomes:
 
 ![Outcomes_vs_Goals](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
-
+As expected, as the values were calculated from the total number of campaigns, the failed and successful campaigns are inversely related. As success goes up, fails go down and vice versa.
 
