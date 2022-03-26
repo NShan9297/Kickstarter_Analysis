@@ -90,4 +90,8 @@ The chart shows that Louise **_may_** not reach her campaign goal. The most succ
 
 **Data Limitations**
 
-The analysis of the data provided is somewhat broad. A deeper look into the number of backers would have shone a light on how many people are donating and at what goal range. This could show how many people are potentially needed to meet said goal. We also took a look at average donations which could have been even more illuminating. For example, if your goal of $15,000 requires on average, 300 backers, you may not have the time or resources to source from this large number of people. Ultimately, this seems to be a critical missing piece of this project.
+The analysis of the data provided is somewhat broad. A deeper look into the number of backers would have shone a light on how many people are donating and at what goal range. This could show how many people are potentially needed to meet said goal. We also took a look at average donations which could have been even more illuminating. For example, if your goal of $15,000 requires on average, 300 backers, you may not have the time or resources to source from this large number of people. Ultimately, this seems to be a critical missing piece of this project. 
+There are some real world variables that this data set cannot accurately account for. Popularity, for example, could play a large part in who will donate, and how much. If no one has heard of/is particualry fond of Louise, she may not get the support she needs. Also, some plays could be remakes that many people are fond of, likt the Lion King for example.If her play is not well-received she may not gain any traction for funding. Location is another determining factor. Separating by country is a good start but, knowing what state,city, etc has the highest interest in plays or topic of her play would be a better indicator.
+
+
+**Other Possible Data Tables/Graphs**
