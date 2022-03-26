@@ -3,7 +3,7 @@
 
 
 
-###**Purpose**### of this project is to analyze campaigns to find what models are most successful. Data included campaign goals, number of backer/donors, and money raised. Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. 
+###**Purpose**### of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. 
 
 
 ###**Analysis and Challenges**###
