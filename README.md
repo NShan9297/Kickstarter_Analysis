@@ -22,11 +22,12 @@ Analysis began by using the Kickstarter_analysis workbook, to filter only the "P
 
 Here , we see that Louise has provided us with quite a bit of data which should hopefully be reflective of the popultion in an effort to allow for her success. 
 
+### Analysis of Outcomes Based on Launch Date ##
+
 The Theater Category was then further analyzed by looking at the Outcomes based on when the Campaigns Launched:
 
 To accomplish this, first, the launched_at column values had to be converted from Unox Epoch time by using the =YEAR(Serial_number) function. After the years were converted, a pivot table was created to show all Theater campaigns from '09 to '17. This is charted as Date Created Conversion in the Kickstarter worksheet. Below is the visualization of the outcomes
 
-### Analysis of Outcomes Based on Launch Date ##
 
 ![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
