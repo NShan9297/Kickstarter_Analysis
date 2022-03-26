@@ -41,5 +41,7 @@ Below we ar showing all subcategories for all campaigns.
 From here, I went on to show the Subcategory of Plays which visualizes how plays stack up to other Theater sub categories:
 ![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
 
-This exhibits that we have quite a bit of data to use for Louise. 
+
+The deep dive for the subcategory plays was analyzed by looking at the outcomes based on the goals
+
 
