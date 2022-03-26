@@ -7,7 +7,7 @@
 
 
 ###**Analysis and Challenges**###
-Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent Category" of Theater:
+Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent CategoryS" of the campaigns:
 
 ![Parent_Outcomes](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Parent%20Outcomes.png)
 
