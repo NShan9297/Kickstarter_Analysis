@@ -20,3 +20,6 @@ From the "Theater" Parent Category, we then parsed through the numbers and creat
 
 
 ![sub_stats](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Sub_stats.png)
+
+
+From here, I went on to show the Subcategory of Plays:
