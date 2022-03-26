@@ -9,11 +9,12 @@
 
 ## **Purpose** ## 
 
-The Purpose of this project is to analyze campaigns to find what models are most successful and which failed. Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal based on funds/money pledged. While Failed campaigns were those that did not reach their goal based on funds/money pledged. The main focus of this analysis will be on Successful Campaings, Failed Campaigns, their Launch Dates and their Pledged and Goal amounts. This analysis was achieved by creating Pivot tables and corresponding line charts and graphs, to allow the visualization of the effects, if any, that those Launch Dates and the Outcomes based Goals have on a campaign. The data was collected across 21 countries, from 2009 to 2017, then compiled in an Excel Worksheet called Kickstarter Analysis.  
+The Purpose of this project is to analyze campaigns to find what models are most successful and which failed. Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal based on funds/money pledged. While Failed campaigns were those that did not reach their goal based on funds/money pledged. From this data, Louise will 
 
 
 ## **Analysis and Challenges** ##
-Analysis began by using the Kickstarter Analysis worksheet, to filter only the "Parent Categories" or Classifications of all the campaign figures that were collected. From the figures, a Pivot Table was created to show/compare the total number of campaigns which included all successful, failed, live, and canceled campaigns, regardless of their categories.
+
+The main focus of this analysis will be on Successful Campaings, Failed Campaigns, their Launch Dates and their Pledged and Goal amounts. This analysis was achieved by creating Pivot tables and corresponding line charts and graphs, to allow the visualization of the effects, if any, that those Launch Dates and the Outcomes based Goals have on a campaign. The data was collected across 21 countries, from 2009 to 2017, then compiled in an Excel Worksheet called Kickstarter Analysis. Analysis began by using the Kickstarter Analysis worksheet, to filter only the "Parent Categories" or Classifications of all the campaign figures that were collected. From the figures, a Pivot Table was created to show/compare the total number of campaigns which included all successful, failed, live, and canceled campaigns, regardless of their categories.
 
 The Pivot table visualizing this is shown in the Bar Graph below:
 
