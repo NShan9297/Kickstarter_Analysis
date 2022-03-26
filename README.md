@@ -3,7 +3,7 @@
 
 
 
-###**Purpose**### of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. 
+###**Purpose**### of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. The data was collected across 21 countries, from 2009 to 2017.
 
 
 ###**Analysis and Challenges**###
@@ -24,4 +24,4 @@ From the "Theater" Parent Category, we then parsed through the numbers and creat
 From here, I went on to show the Subcategory of Plays which visualizes how plays stack up to other Theater sub categories:
 ![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
 
-
+This exhibits that we have quite a bit of data to use for Louise. 
