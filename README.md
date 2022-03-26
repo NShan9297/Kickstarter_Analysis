@@ -3,17 +3,19 @@
 
 
 ## **Overview** ## 
-“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaigns look like from start to finish, to model hers from.
+“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from.
 
 
 
 ## **Purpose** ## 
 
-The Purpose of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backer/donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Success was measured by whether the campaigns reached/exceeded their fundraising goal. This analysis was achieved by creating Pivot tables and corresponding line charts to allow the visualization of the effects, if any, that launch dates and the overall goal have on a campaign. The data was collected across 21 countries, from 2009 to 2017.
+The Purpose of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backers and donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal. While Failed campaigns were those that did not reach their goal. This analysis was achieved by creating Pivot tables and corresponding line charts and graphs, to allow the visualization of the effects, if any, that the Launch Dates and the Outcomes based Goals have on a campaign. The data was collected across 21 countries, from 2009 to 2017, then compiled in an Excel Worksheet called Kickstarter Analysis. 
 
 
 ## **Analysis and Challenges** ##
-Analysis began by using the Kickstarter_analysis workbook, to filter only the "Parent Categories" or Classifications of all the campaign figures collected. From the figures, a Pivot Table was then created to show/compare the total number of campaigns which included all successful, failed, live, and canceled campaigns, regardless of their categories. The Pivot table is visualized using a Bar Graph below:
+Analysis began by using the Kickstarter Analysis worksheet, to filter only the "Parent Categories" or Classifications of all the campaign figures that were collected. From the figures, a Pivot Table was created to show/compare the total number of campaigns which included all successful, failed, live, and canceled campaigns, regardless of their categories.
+
+The Pivot table visualizing this is shown in the Bar Graph below:
 
 
 ### Parent Categories ###
