@@ -3,13 +3,13 @@
 
 
 ## **Overview** ## 
-“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for help! She needs insight on what a successful crowdfunding campaign looks like from start to finish, to model hers from. Louise is looking for about $10,000 to fund her play. 
+“Louise”, an up-and-coming playwright, is looking to start her first play. She has decided to use crowdfunding as a resource to raise money for it. Louise has asked us for insight on what a successful crowdfunding campaign looks like to model hers from. Louise is looking for about $10,000 to fund her play. 
 
 
 
 ## **Purpose** ## 
 
-The Purpose of this project is to analyze campaigns to find what models are most successful. Data included money the campaingers were looking to raise(goal), number of backers and donors, and money raised (charted as "Pleged" on Kickstarter worksheet). Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal. While Failed campaigns were those that did not reach their goal. This analysis was achieved by creating Pivot tables and corresponding line charts and graphs, to allow the visualization of the effects, if any, that the Launch Dates and the Outcomes based Goals have on a campaign. The data was collected across 21 countries, from 2009 to 2017, then compiled in an Excel Worksheet called Kickstarter Analysis. 
+The Purpose of this project is to analyze campaigns to find what models are most successful and which failed. Successful campaigns were determined by whether the campaigns reached/exceeded their fundraising goal based on funds/money pledged. While Failed campaigns were those that did not reach their goal based on funds/money pledged. The main focus of this analysis will be on Successful Campaings, Failed Campaigns, their Launch Dates and their Pledged and Goal amounts. This analysis was achieved by creating Pivot tables and corresponding line charts and graphs, to allow the visualization of the effects, if any, that those Launch Dates and the Outcomes based Goals have on a campaign. The data was collected across 21 countries, from 2009 to 2017, then compiled in an Excel Worksheet called Kickstarter Analysis.  
 
 
 ## **Analysis and Challenges** ##
@@ -86,3 +86,8 @@ She should not start in December because the number of failed and successful cam
 **Outcomes Based on Goals**
 
 The chart shows that Louise **_may_** not reach her campaign goal. The most succces is seen with campaigns that are $1,000 or less, with almost 80% of them reaching their goal. A goal of $1,000 to $4,999 is about the same. The numbers steadily decrease from this point until a goal of about $35,000. However, at this goal point, the fundraising pool is **_very_** low. From the $25,000 goal mark and on, the campaign totals are mostly in the single digits. Those that are double digits are lower double digits and mostly failed camapigns. At the $35,000 goal mark we see some success, but the data suggests that there is some special circumstance or factor that has allowed for those successes. Maybe the playwright has made a name for themselves? Maybe it is a popular/awaited play. As Louise is just starting out, she may have to source a lot of backers to meet her goal. Louise's goal of $10,000 is possible, but it is safer for her to choose a maximum of $5,000 to begin with. 
+
+
+**Data Limitations**
+
+The analysis of the data provided is somewhat broad. A deeper look into 
