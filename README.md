@@ -25,7 +25,7 @@ Here, we see that Louise has provided us with what appears to be sufficient data
 
 From this, we then begin to take a closer look at the Parent Category, Theater which is the Category for Louise's subcategory, "Plays".
 
-### Analysis of Outcomes Based on Launch Date ##
+### **Analysis of Outcomes Based on Launch Date** ###
 
 The Theater Category was analyzed by looking at the Outcomes based on when the Campaigns Launched:
 
@@ -36,7 +36,7 @@ To accomplish this, first, the launched_at column values had to be converted fro
 ![Theater_Outcomes_vs_Launch](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
-### Sub Categories ##
+### **Sub Categories** ###
 
 From the "Theater" Parent Category, we then parsed through the numbers and created a Pivot Chart with a filter option to include all subcategories. 
 
@@ -48,6 +48,7 @@ Below we ar showing all subcategories for all campaigns.
 From here, I went on to show the Subcategory of Plays which visualizes how plays stack up to other Theater sub categories:
 ![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
 
+### **Analysis of Outcomes Based on Goals** ###
 
 The subcategory Plays was further analyzed by looking at the outcomes based on the goals, showing overall success. This was acheived by Creating a scale for the goal. The rows were set up to show when the goals were less than $1,000 to $50,000 or more, incrementally increasing by $5,000 for every row.
 
