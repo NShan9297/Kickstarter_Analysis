@@ -66,4 +66,8 @@ Here we see that, on average, the higher the goal, the lower the success rate af
 
 ### **Challenges and Difficulties Encountered** ###
 
-The most challenging aspect of this project was creating the outcomes based on goals Line Chart. The formula was 
+The most challenging aspect of this project was creating the outcomes based on goals Line Chart. The COUNTIFS function was required to sequester the correct data. The references were pulled from another worksheet and quite specific. The formula was very lengthy and required 3 separate and unique formulas to yield to correct values in the ranges. I was not able to find a shortcut for getting the correct values in each cell. I overcame this challenge by first copying the longest formula which was for the 'X' to 'X' goals (e.g. 1000 to 4999). I used this for the full row inputting the incremental ranges and I went and then used this for the next column by just swapping out the data. Classmates also helped.
+
+
+
+## **Results** ##
