@@ -23,3 +23,4 @@ From the "Theater" Parent Category, we then parsed through the numbers and creat
 
 
 From here, I went on to show the Subcategory of Plays:
+![Theater_Subs_Only](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Theater_Sub_Only.png)
