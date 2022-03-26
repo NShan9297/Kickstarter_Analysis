@@ -7,7 +7,7 @@
 
 
 ###**Analysis and Challenges**###
-Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent Categorys" of all the campaigns' figured collected. From the figures a Pivot Table was created to show/compare the total number of campaigns. This includes successful, failed, live, and canceled campaigns:
+To start, we began by using the Kickstarter_analysis workbook, to filter only the "Parent Categorys" of all the campaigns' figured collected. From the figures a Pivot Table was created to show/compare the total number of campaigns. This includes successful, failed, live, and canceled campaigns:
 
 ![Parent_Outcomes](https://github.com/NShan9297/kickstarter_analysis/blob/main/Resources/Parent%20Outcomes.png)
 
