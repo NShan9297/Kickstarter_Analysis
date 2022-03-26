@@ -7,4 +7,6 @@
 
 
 ###**Analysis and Challenges**###
+Using the Kickstarter_analysis workbook, the figures were filtered to show only the "Parent Category" of Theater:
+
 
