@@ -59,5 +59,5 @@ Successful and Failed campaings with similar goal ranges were added together for
 
 As expected, as the values were calculated from the total number of campaigns, the failed and successful campaigns are inversely related. As success goes up, fails go down and vice versa.
 
-
+Here we see that, on average, the higher the goal, the lower the success rate after about $15,000.
 
