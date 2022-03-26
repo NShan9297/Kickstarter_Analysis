@@ -61,3 +61,7 @@ As expected, as the values were calculated from the total number of campaigns, t
 
 Here we see that, on average, the higher the goal, the lower the success rate after about $15,000.
 
+
+### **Challenges and Difficulties Encountered** ###
+
+
